@@ -2,12 +2,12 @@
 This code is based on this [article](https://dev.to/code_mystery/automatic-image-slider-using-html-css-javascript-nf8). 
 
 # Readme language versions
-![Versión en español](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme-es.md)
+[Versión en español](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme-es.md)
 
-![한국어 버전](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme-ko.md)
+[한국어 버전](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme-ko.md)
 
 # Result
-![result](img\result.gif)
+![result](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/assets/img/result.gif)
 # Useful information
 To accomplish the above effect, you must know how to use the following: 
 
