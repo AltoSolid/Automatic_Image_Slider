@@ -2,7 +2,7 @@
 Este código está basado en este [articulo](https://dev.to/code_mystery/automatic-image-slider-using-html-css-javascript-nf8). 
 
 # Versiones de idiomas Readme
-[English version]((https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme.md)
+[English version](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme.md)
 
 [한국어 버전](https://github.com/AltoSolid/Automatic_Image_Slider/blob/main/readme-ko.md)
 
